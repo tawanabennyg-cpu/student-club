@@ -37,6 +37,7 @@ E. PHP
 
 
 F. HOSTING AND DEPLOYMENT
+
 •	You are required to deploy your completed website on a web hosting platform of your choice. 
 •	The website must be publicly accessible through a working URL. 
 •	You should submit the website URL. 
