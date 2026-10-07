@@ -1,0 +1,14 @@
+# render.yaml — Render Blueprint for EcoTech Innovators Society
+# Auto-deploys from GitHub on every push to main branch
+
+services:
+  - type: web
+    name: ecotech-innovators-society
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PHP_TIMEZONE
+        value: Africa/Nairobi
+    healthCheckPath: /index.php
+    autoDeploy: true
