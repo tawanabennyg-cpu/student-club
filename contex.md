@@ -35,6 +35,7 @@ E. PHP
 •	Display an appropriate response after the form has been submitted.
 •	Where database connectivity has been covered, store and retrieve submitted information from a database.
 
+
 F. HOSTING AND DEPLOYMENT
 •	You are required to deploy your completed website on a web hosting platform of your choice. 
 •	The website must be publicly accessible through a working URL. 
