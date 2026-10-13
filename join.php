@@ -236,12 +236,12 @@ if (isset($_SESSION['flash_message'])) {
                 <div style="text-align: center; padding: 1.4rem; background: var(--color-cream); border-radius: var(--radius-md);">
                     <div style="font-size: 2rem; margin-bottom: 0.6rem;">📧</div>
                     <p style="font-weight: 700; margin: 0 0 0.3rem;">Email</p>
-                    <a href="mailto:ecotech@university.ac.ke" style="font-size: 0.88rem; color: var(--color-accent);">ecotech@university.ac.ke</a>
+                    <a href="mailto:[EMAIL_ADDRESS]" style="font-size: 0.88rem; color: var(--color-accent);">ecotech@hit.ac.zw</a>
                 </div>
                 <div style="text-align: center; padding: 1.4rem; background: var(--color-cream); border-radius: var(--radius-md);">
                     <div style="font-size: 2rem; margin-bottom: 0.6rem;">📍</div>
                     <p style="font-weight: 700; margin: 0 0 0.3rem;">Office</p>
-                    <p style="font-size: 0.88rem; color: var(--color-text-muted); margin: 0;">Computing Complex, Room 204</p>
+                    <p style="font-size: 0.88rem; color: var(--color-text-muted); margin: 0;">Engineering Hall</p>
                 </div>
                 <div style="text-align: center; padding: 1.4rem; background: var(--color-cream); border-radius: var(--radius-md);">
                     <div style="font-size: 2rem; margin-bottom: 0.6rem;">📅</div>
