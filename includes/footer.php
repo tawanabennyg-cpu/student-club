@@ -50,12 +50,12 @@ $currentYear = date('Y');
             <!-- Contact Info -->
             <div class="footer-contact">
                 <h4 class="footer-title">Contact Us</h4>
-                <p>📧 ecotech@university.ac.ke</p>
-                <p>📞 +254 700 123 456</p>
-                <p>📍 Computing Complex, Room 204<br>University Campus</p>
+                <p>📧 ecotech@hit.ac.zw</p>
+                <p>📞 +263 715 123 456</p>
+                <p>📍 Engineering Hall<br>H.I.T Campus</p>
                 <p style="margin-top: 1rem;">
                     <a href="join.php" class="btn btn-accent" style="padding: 0.6rem 1.4rem; font-size: 0.9rem;">
-                        ✦ Become a Member
+                         Become a Member
                     </a>
                 </p>
             </div>
