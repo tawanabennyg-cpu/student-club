@@ -87,12 +87,12 @@ require_once 'includes/header.php';
                 <tbody>
                     <?php
                     $schedule = [
-                        ['Oct 24, 2026',  'IoT Environmental Sensing Workshop',           'Workshop',  'Hardware Lab 3',           35],
+                        ['Oct 24, 2026',  'IoT Environmental Sensing Workshop',           'Workshop',  'Engineering Hall',           35],
                         ['Nov 15–17, 2026','EcoHack 2026: 48-Hour Hackathon',              'Hackathon', 'Innovation Hub',           120],
-                        ['Dec 5, 2026',   'Campus Tree Planting & Solar Station Field Day','Field Day', 'Botanical Arboretum',       50],
-                        ['Jan 14, 2027',  'Green Software Engineering Guest Lecture',      'Guest Talk','Lecture Theatre B',         80],
-                        ['Feb 10, 2027',  'Smart Irrigation & LoRaWAN Field Session',     'Workshop',  'Agricultural Research Farm',25],
-                        ['Mar 20, 2027',  'Annual Showcase & Networking Mixer',            'Social',    'Student Centre Hall',      150],
+                        ['Dec 5, 2026',   'Campus Tree Planting & Solar Station Field Day','Field Day', 'Multipurpose',       50],
+                        ['Jan 14, 2027',  'Green Software Engineering Guest Lecture',      'Guest Talk','Engineering Hall',         80],
+                        ['Feb 10, 2027',  'Smart Irrigation & LoRaWAN Field Session',     'Workshop',  'N110',25],
+                        ['Mar 20, 2027',  'Annual Showcase & Networking Mixer',            'Social',    'Multipurpose',      150],
                     ];
                     foreach ($schedule as $row) {
                         echo '<tr>';

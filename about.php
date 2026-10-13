@@ -114,12 +114,12 @@ require_once 'includes/header.php';
                     <?php
                     // Using PHP array of associative arrays (object-like structures)
                     $committee = [
-                        ['name' => 'Amara Njoroge',   'role' => 'President',          'degree' => 'BSc. Computer Science',            'year' => '3rd Year', 'email' => 'a.njoroge@uni.ac.ke',   'img' => 'team-president.jpg'],
-                        ['name' => 'Daniel Kimani',   'role' => 'Vice President',     'degree' => 'BSc. Software Engineering',        'year' => '3rd Year', 'email' => 'd.kimani@uni.ac.ke',    'img' => 'team-vp.jpg'],
-                        ['name' => 'Brendan Ochieng', 'role' => 'Technical Lead',     'degree' => 'BSc. Computer Science',            'year' => '2nd Year', 'email' => 'b.ochieng@uni.ac.ke',   'img' => 'team-techlead.jpg'],
-                        ['name' => 'Fatuma Hassan',   'role' => 'General Secretary',  'degree' => 'BSc. Information Technology',      'year' => '2nd Year', 'email' => 'f.hassan@uni.ac.ke',    'img' => 'team-secretary.jpg'],
-                        ['name' => 'Liam Gitonga',    'role' => 'Events Coordinator', 'degree' => 'BSc. Electrical & Electronic Eng.','year' => '3rd Year', 'email' => 'l.gitonga@uni.ac.ke',   'img' => ''],
-                        ['name' => 'Priya Nair',      'role' => 'Treasurer',          'degree' => 'BSc. Actuarial Science',           'year' => '2nd Year', 'email' => 'p.nair@uni.ac.ke',      'img' => ''],
+                        ['name' => 'Amara Katsvanga',   'role' => 'President',          'degree' => 'BSc. Computer Science',            'year' => '3rd Year', 'email' => 'a.katsvanga@hit.ac.zw',   'img' => 'team-president.jpg'],
+                        ['name' => 'Daniel Kativhu',   'role' => 'Vice President',     'degree' => 'BSc. Software Engineering',        'year' => '3rd Year', 'email' => 'd.kativhu@hit.ac.zw',    'img' => 'team-vp.jpg'],
+                        ['name' => 'Brendan Mushapaidze', 'role' => 'Technical Lead',     'degree' => 'BSc. Computer Science',            'year' => '2nd Year', 'email' => 'b.mushapaidze@hit.ac.zw',   'img' => 'team-techlead.jpg'],
+                        ['name' => 'Fatima Maredza',   'role' => 'General Secretary',  'degree' => 'BSc. Information Technology',      'year' => '2nd Year', 'email' => 'f.maredza@hit.ac.zw',    'img' => 'team-secretary.jpg'],
+                        ['name' => 'Liam Gitonga',    'role' => 'Events Coordinator', 'degree' => 'BSc. Electrical & Electronic Eng.','year' => '3rd Year', 'email' => 'l.gitonga@hit.ac.zw',   'img' => ''],
+                        ['name' => 'Tinashe Zimba',      'role' => 'Treasurer',          'degree' => 'BSc. Electrical & Electronic Eng.',           'year' => '2nd Year', 'email' => 't.zimba@hit.ac.zw',      'img' => ''],
                     ];
 
                     foreach ($committee as $i => $member) {
